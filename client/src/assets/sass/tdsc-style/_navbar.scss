@@ -1,3 +1,8 @@
 .navbar{
-  box-shadow: 0 6px 10px -4px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 10px -2px $shadow;
 }
+.navbar-brand{
+  padding-right: 10%;
+  padding-left: 1%;
+}
+
