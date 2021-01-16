@@ -1,0 +1,12 @@
+@import "tdsc-style/color";
+@import "tdsc-style/variable";
+
+//Core :
+@import "tdsc-style/misc";
+@import "tdsc-style/navbar";
+
+//Resposive :
+@import "tdsc-style/responsive";
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
